@@ -1,5 +1,6 @@
 import React from "react";
-import { displayNumber } from "pages/payments/utils";
+import { displayNumber } from "utils";
+
 import "./card.css";
 import { CardInput } from "./card.type";
 
